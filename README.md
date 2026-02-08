@@ -1,5 +1,7 @@
 # 💫 About Me:
-I’m a curious software development student who enjoys building practical, real-world solutions. I tend to notice small problems or inefficiencies and turn them into simple tools or systems. Most of my learning happens through creating projects, experimenting, and improving things over time rather than just studying theory.
+I’m Mirzan A.K.A NightShade, a curious software development student who enjoys building practical, real-world solutions. I’m the kind of person who notices how things work, spots small inefficiencies, and then feels the urge to create something better or simpler.
+Most of my projects start from observation rather than imagination. It might be a confusing system, a repetitive task, or just an interesting problem I come across in daily life. I like turning those small ideas into working tools, experiments, or prototypes that actually do something useful.
+I’m especially interested in building projects that combine logic, design, and real-world impact. For me, the best way to learn isn’t just studying concepts, but creating things that solve problems and improve over time.
 
 
 ## 🌐 Socials:
